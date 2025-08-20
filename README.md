@@ -55,6 +55,6 @@ Estoque de Gasolina 939
 
 ---
 
-## 📄 Licença
+## 📌 Observação
 
-Uso livre para fins **educacionais**.
+Este projeto foi desenvolvido como **atividade acadêmica**, com o objetivo de praticar os conceitos de **Programação Orientada a Objetos (POO)** em Java, aplicando **encapsulamento** e **regras de negócio** no controle de estoque de combustíveis em um cenário prático.
